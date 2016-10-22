@@ -1,0 +1,9 @@
+# python
+.py[c]
+
+# Mac OS X
+.DS_Store
+
+# PyCharm 
+.idea
+
