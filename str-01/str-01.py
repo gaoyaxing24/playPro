@@ -2,6 +2,12 @@
 # coding: utf-8
 from __future__ import print_function
 
+"""
+    Created by: Arthur - 黑小帅
+    Created on: 2016-10-23
+    str-01 逆转字符串——输入一个字符串，将其逆转并输出。[x]
+"""
+
 char = 'Arthur'
 
 # 方法1	 python中最优, 最为推荐
